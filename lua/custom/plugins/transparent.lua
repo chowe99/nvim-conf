@@ -26,6 +26,7 @@ return {
       "SignColumn",
       "CursorLineNr",
       "EndOfBuffer",
+      "FloatBorder",
     },
     -- table: additional groups that should be cleared
     extra_groups = {
