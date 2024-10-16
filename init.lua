@@ -581,3 +581,5 @@ vim.api.nvim_set_keymap('n', ':', '<cmd>FineCmdline<CR>', {noremap = true})
 vim.keymap.set('n', '/', ':SearchBoxIncSearch<CR>')
 -- The line beneath this is called `modeline`. See `:help modeline`
 -- vim: ts=2 sts=2 sw=2 et
+vim.opt.guifont = "JetBrainsMono Nerd Font Mono SemiBold:h12"
+
